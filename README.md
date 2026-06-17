@@ -2,7 +2,7 @@
 
 > A fully responsive personal portfolio website built with **React + TypeScript + Tailwind CSS**, featuring a purple glassmorphism design system, dark/light mode, animated sections, and a functional contact form.
 
-**Live Site:** [View Portfolio](https://your-deployed-link-here.com) <!-- Replace with your actual deployed URL -->
+**Live Site:** [View Portfolio](https://carol-portfolio-six.vercel.app) <!-- Replace with your actual deployed URL -->
 
 ---
 
