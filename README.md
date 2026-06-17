@@ -42,7 +42,7 @@ Portfolio for **Anne Carol G. Jonson**, a 4th-year Bachelor of Science in Comput
 | Routing | React Router v7 |
 | Contact Form | Formsubmit.co |
 | Build Tool | Vite 6 |
-| Deployment | *(your platform, e.g. Vercel / Netlify)* |
+| Deployment | Vercel |
 
 ---
 
